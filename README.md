@@ -15,11 +15,11 @@ This Dataset consists of a multi-channel structured data log capturing the daily
 | NO. | Column Name             | Description                                                      |
 | --: | ------------------------| ---------------------------------------------------------------- |
 |   1 | **Date**                | The specific calendar day the metrics were recorded.             |
-|   2 | **Campaign_ID**         | Unique identification code for each individual marketing         |
+|   2 | **Campaign_ID**         | Unique identification code for each individual marketing.         |
 |   3 | **Campaign_Name**       | Name of campaign (e.g: "Black_Friday_2026","Brand Awareness")    |
-|   4 | **Marketing_Channel**   | The digital medium used (eg:Paid Search, Paid Social, Email, SEO |
-|   5 | **Platform**            | The specific network hosting the ad eg:(GoogleAds, Meta,Linkedin.|
-|   6 | **Target_Audience**     | Demographic or behavior segment targeted eg:("Lookalike_Existing_Buyers" |
+|   4 | **Marketing_Channel**   | The digital medium used (eg:Paid Search, Paid Social, Email, SEO. |
+|   5 | **Platform**            | The specific network hosting the ad eg:(GoogleAds, Meta,Linkedin.)|
+|   6 | **Target_Audience**     | Demographic or behavior segment targeted eg:"Lookalike_Existing_Buyers" |
 |   7 | **Ad_Spend**            | The exact budget spent on that platform for the day (in currency format) |
 |   8 | **Impressions**         | Total  number of times the digital ad or content was displayed to users. |
 |   9 | **Clicks**              | Number of times users interacted with and clicked on the ad link.        |
