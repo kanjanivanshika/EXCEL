@@ -20,5 +20,11 @@ This Dataset consists of a multi-channel structured data log capturing the daily
 |   4 | **Marketing_Channel**   | The digital medium used (eg:Paid Search, Paid Social, Email, SEO |
 |   5 | **Platform**            | The specific network hosting the ad eg:(GoogleAds, Meta,Linkedin.|
 |   6 | **Target_Audience**     | Demographic or behavior segment targeted eg:("Lookalike_Existing_Buyers" |
-|   7 | **Ad_Spend**            | The exact budget spent on that platform for the day (in currency format)  |
-|   8 | **Impressions**         | Total  number of times the digital ad or content was displayed to users.   |
+|   7 | **Ad_Spend**            | The exact budget spent on that platform for the day (in currency format) |
+|   8 | **Impressions**         | Total  number of times the digital ad or content was displayed to users. |
+|   9 | **Clicks**              | Number of times users interacted with and clicked on the ad link.        |
+|  10 | **Sessions**            | Total number of visits initiated on the company website via that specific campaign. |
+|  11 | **Bounce Rate**         | Percentage of website visitors who left the site after viewing onle one page.       |
+|  12 | **Leads_Generated**     | Number of users who completed a sign-up, form-fill or registration.                 |
+|  13 | **Conversions_Sales**   | Total number of completed financial purchases driven by the campaign.               |
+|  14 | **Revenue Generated**   | Total income earned directly from the conversion sales (in currency format).        |
