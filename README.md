@@ -8,7 +8,7 @@ The primary objective of this project is to develop an interactive Digital Marke
 
 ## Dataset Description
 
-This Dataset consists of a multi-channel structured data log capturing the daily performance of various digital marketing campaigns across an annual or monthly timeline. It combines data from advertising platforms (Google Ads, Meta Ads), web analytics tools (Google Analytics4), and customer relationship management (CRM) systems. The dataset is structured at a granular daily campaign level, where each row represents the performance of a specific marketing campaign on a single day. It includes metadata to classify campaigns by platform and target audience, performance metrics to measure user engagement and attention, and financial metrics to compute financial viability and customer acquisition success.
+This Dataset consists of a multi-channel structured data log capturing the daily performance of various digital marketing campaigns across an annual or monthly timeline. It combines data from advertising platforms (Google Ads, Meta Ads), web analytics tools (Google Analytics 4), and customer relationship management (CRM) systems. The dataset is structured at a granular daily campaign level, where each row represents the performance of a specific marketing campaign on a single day. It includes metadata to classify campaigns by platform and target audience, performance metrics to measure user engagement and attention, and financial metrics to compute financial viability and customer acquisition success.
 
 ### Key Columns & Data Fields
 
