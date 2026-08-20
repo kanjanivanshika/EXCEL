@@ -1,30 +1,41 @@
-## Digital Marketing Performance Dashboard**
+## Restaurant Data Set| SWIGGY **
 
 
 ## Project Objective
 
-The primary objective of this project is to develop an interactive Digital Marketing Performance Dashboard that centralizes, visualizes, and analyses cross channel marketing data (Paid Ads, SEO, and Email) into a single source of truth. This tool enables marketing teams and decision makers to track key performance indictors, monitor real-time advertising spend, and evaluate campaign efficiency (ROAS and CPA) without manual reporting. Ultimately, the dashboard eliminates data silos, helping stakeholders quickly spot underperforming campaigns, allocate budgets dynamically, and optimize user journeys to maximize digital marketing return on investment.
+The main goal of this dashboard is to help restaurant owners and managers make smart, data-driven decisions to boost profits and improve the guest experience. By visualizing this data, the project aims to identify top-selling menu items, pinpoint peak dining hours for better staff scheduling, track revenue trends, and uncover areas where service can be improved. The Objective of this project is to build a centralized, interactive analytics dashboard that translates daily restaurant operational data into actionable business insights. This Dashboard Aims to: Maximize Profitability, Optimize Operations, Reduce Waste, Enhance Retention.
 
 
 ## Dataset Description
 
-This Dataset consists of a multi-channel structured data log capturing the daily performance of various digital marketing campaigns across an annual or monthly timeline. It combines data from advertising platforms (Google Ads, Meta Ads), web analytics tools (Google Analytics 4), and customer relationship management (CRM) systems. The dataset is structured at a granular daily campaign level, where each row represents the performance of a specific marketing campaign on a single day. It includes metadata to classify campaigns by platform and target audience, performance metrics to measure user engagement and attention, and financial metrics to compute financial viability and customer acquisition success.
+This Dataset captures daily restaurant operations across sales, menu costs, staff levels and customer satisfaction. It combines transactional logs with operational metrics to help managers link staffing and costs directly to daily revenue and reviews.
 
 ### Key Columns & Data Fields
 
 | NO. | Column Name             | Description                                                      |
 | --: | ------------------------| ---------------------------------------------------------------- |
-|   1 | **Date**                | The specific calendar day the metrics were recorded.             |
-|   2 | **Campaign_ID**         | Unique identification code for each individual marketing.         |
-|   3 | **Campaign_Name**       | Name of campaign (e.g: "Black_Friday_2026","Brand Awareness")    |
-|   4 | **Marketing_Channel**   | The digital medium used (eg:Paid Search, Paid Social, Email, SEO. |
-|   5 | **Platform**            | The specific network hosting the ad eg:(GoogleAds, Meta,Linkedin.)|
-|   6 | **Target_Audience**     | Demographic or behavior segment targeted eg:"Lookalike_Existing_Buyers" |
-|   7 | **Ad_Spend**            | The exact budget spent on that platform for the day (in currency format) |
-|   8 | **Impressions**         | Total  number of times the digital ad or content was displayed to users. |
-|   9 | **Clicks**              | Number of times users interacted with and clicked on the ad link.        |
-|  10 | **Sessions**            | Total number of visits initiated on the company website via that specific campaign. |
-|  11 | **Bounce Rate**         | Percentage of website visitors who left the site after viewing onle one page.       |
-|  12 | **Leads_Generated**     | Number of users who completed a sign-up, form-fill or registration.                 |
-|  13 | **Conversions_Sales**   | Total number of completed financial purchases driven by the campaign.               |
-|  14 | **Revenue Generated**   | Total income earned directly from the conversion sales (in currency format).        |
+|   1 | **Order_ID**            | Unique Identifier for each order.                                |
+|   2 | **Date**                | Calendar Date for Transaction.                                   |
+|   3 | **Time**                | Exact Hour of the Order (To find Peak Times)                     |
+|   4 | **Item_ID**             | Link to the Menu Item Sold.                                      |
+|   5 | **Quantity Sold**       | No. of Units Ordered.                                            |
+|   6 | **Order_Type**          | Categorized as Dine-IN, Take Away, or Delivery.                  |
+|   7 | **Payment Method**      | Categorized as Credit Card, Cash, UPI.                           |
+|   8 | **Table Number**        | Table identifier (Null for Delivery/Take Away)                   |
+|   9 | **Wait Time Minutes**   | Total Minutes from order placement to Food Delivery.             |
+|  10 | **Item_ID**             | Unique Identifier for each Drink/Dish.                           |
+|  11 | **Item Name**           | The name of the Menu Item.                                       |
+|  12 | **Category**            | Categorized as Appetizer, Main Course, Dessert, Beverages.       |
+|  13 | **Selling Price**       | Price Charged to Customer.                                       |
+|  14 | **Ingredient Cost**     | The exact cost to produce the Dish.(COGS)                        |
+|  15 | **Profit_Margin**       | Calculated Column. (Selling Price-Ingredient Cost)               |
+|  16 | **Stock_Status**        | In Stock, Low Stock, Out of Stock.                               |
+|  17 | **Feedback_ID**         | Unique Identifier for each review.                               |
+|  18 | **Rating Score**        | Numerical rating from 1 to 5 Stars.                              |
+|  19 | **Sentiment Tag**       | Categorized as Food Quality, Service Speed, Cleanliness or Value.|
+|  20 | **Customer_Type**       | New vs Returning Customer (If tracked via loyalty program)       |
+|  21 | **Shift_ID**            | Unique identifier for work shift.                                |
+|  22 | **Date**                | Date of Shift.                                                   |
+|  23 | **Shift_Type**          | Morning, Afternoon, Evening, Night.                              |
+|  24 | **Employees on Duty**   | Count of front of house and kitchen staff working.               |
+|  25 | **Total Labor Cost**    | Total wages paid for specific shift.                             |
