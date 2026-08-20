@@ -43,8 +43,12 @@ This Dataset captures daily restaurant operations across sales, menu costs, staf
 
 ## 🧮Calculated Columns
 
-**Total Revenue** - Quantity Sold * Selling Price.
+**Total Revenue** - Quantity Sold * Selling Price.                                               
+
 **Total Cost**    - Quantity Sold * Ingredient Cost.
+
 **Order Profit**  - Total Revenue - Total Cost.
+
 **Profit Margin ($)** - Selling Price - Ingredient Cost.
+
 **Profit Margin (%)** - Profit Margin ($) / Selling Price * 100.
