@@ -39,3 +39,12 @@ This Dataset captures daily restaurant operations across sales, menu costs, staf
 |  23 | **Shift_Type**          | Morning, Afternoon, Evening, Night.                              |
 |  24 | **Employees on Duty**   | Count of front of house and kitchen staff working.               |
 |  25 | **Total Labor Cost**    | Total wages paid for specific shift.                             |
+
+
+## 🧮Calculated Columns
+
+**Total Revenue** - Quantity Sold * Selling Price.
+**Total Cost**    - Quantity Sold * Ingredient Cost.
+**Order Profit**  - Total Revenue - Total Cost.
+**Profit Margin ($)** - Selling Price - Ingredient Cost.
+**Profit Margin (%)** - Profit Margin ($) / Selling Price * 100.
