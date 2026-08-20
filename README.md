@@ -53,4 +53,6 @@ This Dataset captures daily restaurant operations across sales, menu costs, staf
 
 **Profit Margin (%)** - Profit Margin ($) / Selling Price * 100.
 
-**Labor Per Cost** - 
+**Labor Per Cost** - Total Labor Cost/ Sales Table * 100.
+
+**Revenue per Employee** - Total Revenue for Shift/Employees on Duty.
