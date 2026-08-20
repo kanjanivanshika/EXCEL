@@ -1,4 +1,4 @@
-## Restaurant Data Set| SWIGGY **
+## Restaurant Data Set | SWIGGY |
 
 
 ## 🎯Project Objective
