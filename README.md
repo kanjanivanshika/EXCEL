@@ -10,7 +10,7 @@ The main goal of this dashboard is to help restaurant owners and managers make s
 
 This Dataset captures daily restaurant operations across sales, menu costs, staff levels and customer satisfaction. It combines transactional logs with operational metrics to help managers link staffing and costs directly to daily revenue and reviews.
 
-### Key Columns & Data Fields
+### Key Columns & Data Fields.
 
 | NO. | Column Name             | Description                                                      |
 | --: | ------------------------| ---------------------------------------------------------------- |
@@ -52,3 +52,5 @@ This Dataset captures daily restaurant operations across sales, menu costs, staf
 **Profit Margin ($)** - Selling Price - Ingredient Cost.
 
 **Profit Margin (%)** - Profit Margin ($) / Selling Price * 100.
+
+**Labor Per Cost** - 
