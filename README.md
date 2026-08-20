@@ -1,12 +1,12 @@
 ## Restaurant Data Set| SWIGGY **
 
 
-## Project Objective
+## 🎯Project Objective
 
 The main goal of this dashboard is to help restaurant owners and managers make smart, data-driven decisions to boost profits and improve the guest experience. By visualizing this data, the project aims to identify top-selling menu items, pinpoint peak dining hours for better staff scheduling, track revenue trends, and uncover areas where service can be improved. The Objective of this project is to build a centralized, interactive analytics dashboard that translates daily restaurant operational data into actionable business insights. This Dashboard Aims to: Maximize Profitability, Optimize Operations, Reduce Waste, Enhance Retention.
 
 
-## Dataset Description
+## 📊Dataset Description
 
 This Dataset captures daily restaurant operations across sales, menu costs, staff levels and customer satisfaction. It combines transactional logs with operational metrics to help managers link staffing and costs directly to daily revenue and reviews.
 
