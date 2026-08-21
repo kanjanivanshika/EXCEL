@@ -79,14 +79,23 @@ This Dataset captures daily restaurant operations across sales, menu costs, staf
 
 ## 📶Charts
 **💰 Revenue by Date**
+
 **💰 Revenue by Order Type**
+
 **💰 Revenue by Payment Method**
+
 **🛒 Sales by Category**
+
 **💸 Total Revenue**
+
 **💸 Total Cost**
+
 **📊 Order Profit**
+
 **📊 Profit Margin (%) by Item**
+
 **📩 Feedback count by Sentiment**
+
 **⭐ Average customer Rating**
 **💰 Revenue by Hour**
 **📈Peak Dining Time**
