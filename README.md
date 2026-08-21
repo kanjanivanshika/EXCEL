@@ -62,10 +62,34 @@ This Dataset captures daily restaurant operations across sales, menu costs, staf
 
 ## KPI Cards
 **Total Revenue** - Total money generated from orders.
+
 **Total Orders** - Number of orders.
-**Total Quantity Sold** - Total units/ Items Sold
+
+**Total Quantity Sold** - Total units/ Items Sold.
+
 **Total Cost** - Total Ingredient cost.
+
 **Total Profit** - Revenue - Cost.
+
 **Profit Margin %** - Profit as % of selling price.
+
 **Average Order Value** - Revenue / Orders.
+
 **Average Rating** - Average customer rating.
+
+## 📶Charts
+**💰 Revenue by Date**
+**💰 Revenue by Order Type**
+**💰 Revenue by Payment Method**
+**🛒 Sales by Category**
+**💸 Total Revenue**
+**💸 Total Cost**
+**📊 Order Profit**
+**📊 Profit Margin (%) by Item**
+**📩 Feedback count by Sentiment**
+**⭐ Average customer Rating**
+**💰 Revenue by Hour**
+**📈Peak Dining Time**
+**🛒Total Profit by Category**
+**📊📈Revenue vs Cost vs Profit**
+**📅Items by Stock**
