@@ -56,3 +56,16 @@ This Dataset captures daily restaurant operations across sales, menu costs, staf
 **Labor Per Cost** - Total Labor Cost/ Sales Table * 100.
 
 **Revenue per Employee** - Total Revenue for Shift/Employees on Duty.
+
+
+## 📈Dashboard Features
+
+## KPI Cards
+**Total Revenue** - Total money generated from orders.
+**Total Orders** - Number of orders.
+**Total Quantity Sold** - Total units/ Items Sold
+**Total Cost** - Total Ingredient cost.
+**Total Profit** - Revenue - Cost.
+**Profit Margin %** - Profit as % of selling price.
+**Average Order Value** - Revenue / Orders.
+**Average Rating** - Average customer rating.
