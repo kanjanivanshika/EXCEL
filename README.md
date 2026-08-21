@@ -97,8 +97,13 @@ This Dataset captures daily restaurant operations across sales, menu costs, staf
 **📩 Feedback count by Sentiment**
 
 **⭐ Average customer Rating**
+
 **💰 Revenue by Hour**
+
 **📈Peak Dining Time**
+
 **🛒Total Profit by Category**
+
 **📊📈Revenue vs Cost vs Profit**
+
 **📅Items by Stock**
