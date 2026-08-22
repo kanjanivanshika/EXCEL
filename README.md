@@ -10,7 +10,7 @@ The main goal of this dashboard is to help restaurant owners and managers make s
 
 This Dataset captures daily restaurant operations across sales, menu costs, staff levels and customer satisfaction. It combines transactional logs with operational metrics to help managers link staffing and costs directly to daily revenue and reviews.
 
-### Key Columns & Data Fields.
+### Dataset columns.
 
 | NO. | Column Name             | Description                                                      |
 | --: | ------------------------| ---------------------------------------------------------------- |
@@ -23,3 +23,23 @@ This Dataset captures daily restaurant operations across sales, menu costs, staf
 |   7 | Food type               | Type or category of cusine/food offered by the restaurant.       |
 |   8 | Address                 | Detailed location/address of the restaurant.                     |
 |   9 | Delivery Time           | Estimated time taken to deliver an order, generally measured in minutes.  |
+
+
+## 🧮Calculated Columns.
+
+**Rating Category** - Classify restaurants based on ratings.
+
+**Price Category** - Compare restaurants based on affordability.
+
+**Delivery Category** - Analyze delivery performance.
+
+**Popularity Score** - Identify restaurants with both good ratings and high customer engagement.
+
+**Fast Delivery** - Identify restaurants with faster delivery.
+
+**High Rated Restaurants** - Quickly identify highly rated restaurants.
+
+
+## 📈Dashboard Features 
+
+## KPI Cards
