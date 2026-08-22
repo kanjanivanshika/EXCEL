@@ -58,10 +58,6 @@ This Dataset captures daily restaurant operations across sales, menu costs, staf
 
 **📍Average Rating by City**
 
-**🍜Restaurants by Food Type**
-
-**🍜Average Price by Food Type**
-
 **⏱️Delivery Time Analysis**
 
 **⭐Rating vs 💸Price**
@@ -84,5 +80,3 @@ This Dataset captures daily restaurant operations across sales, menu costs, staf
 **🚚Delivery Category**
 
 **⏱️Delivery Time Range**
-
-**💸Price Range**
