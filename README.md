@@ -42,30 +42,47 @@ This Dataset captures daily restaurant operations across sales, menu costs, staf
 
 ## 📈Dashboard Features 
 
-## KPI Cards
-**Total Restaurants**
+## 🎯KPI Cards
+**🟰Total Restaurants**
 
-**Average Rating**
+**⚖️Average Rating**
 
-**Average Price**
+**💸Average Price**
 
-**Average Delivery Time**
+**⏱️Average Delivery Time**
 
-**Total Ratings**
+**⭐Total Ratings**
 
 ## 📊Charts
-. **Restaurants By City**
+**📍Restaurants By City**
 
-. **Average Rating by City**
+**📍Average Rating by City**
 
-. **Restaurants by Food Type**
+**🍜Restaurants by Food Type**
 
-. **Average Price by Food Type**
+**🍜Average Price by Food Type**
 
-. **Delivery Time Analysis**
+**⏱️Delivery Time Analysis**
 
-. **Rating vs Price**
+**⭐Rating vs 💸Price**
 
-. **Top 10 Restaurants**
+**🔟Top 10 Restaurants**
 
-. **Price vs Delivery Time**
+**💸Price vs ⏱️Delivery Time**
+
+## Interactive Filters 
+**City**
+
+**🍟Food Type**
+
+**📍Restaurant**
+
+**💸Price Category**
+
+**⭐Rating Category**
+
+**🚚Delivery Category**
+
+**⏱️Delivery Time Range**
+
+**💸Price Range**
