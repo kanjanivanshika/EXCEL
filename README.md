@@ -124,3 +124,20 @@ The overall **average restaurant price is ₹348.40.**
 Restaurants are distributed across Low (35%), Medium (33%), and High (32%) price categories.
 
 This relatively balanced distribution indicates that Swiggy offers restaurants across different customer price segments.
+
+## 5. Popularity Score Performance ##
+The popularity Score combines **average rating and total ratings**, helping identify cities/restaurants with stronger customer engagement.
+
+The dashboard shows noticeable differences in popularity across cities.
+
+Cities with higher popularity scores can be considered stronger markets for customer engagement.
+
+## 6. High-Rated Restaurants Performance ##
+The dashboard compares high-rated restaurants across different cities and price levels.
+
+Several cities show a strong presence of highly rated restaurants, indicating good customer satisfaction.
+
+High-rated restaurants at lower or medium prices represent potential **value-for-money opportunities.**
+
+
+
