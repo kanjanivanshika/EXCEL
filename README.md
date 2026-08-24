@@ -96,7 +96,31 @@ This Dataset captures daily restaurant operations across sales, menu costs, staf
 
 **Fast Delivery Restaurants** : 8680
 
-**1. City Performance**
+
+## 1. City Performance ##
 The dashboard covers **8,680 restaurants across multiple cities.**
+
 Restaurant Performance varies by city in terms of delivery time, pricing, cuisine availability, and popularity.
+
 Mumbai shows strong restaurant presence and customer engagement, while other major cities also contribute significantly to the overall market.
+
+## 2. Cuisine Performance ##
+Cuisine availability varies considerably across cities.
+
+Mumbai has a high cuisine count, with **1277 cuisine records** shown in the dashboard.
+
+The variation in the cuisine count indicates differences in the customer preferences and restaurant offerings across cities.
+
+## 3. Delivery Time Performance ##
+The overall **Average delivery time is 54 minutes.**
+
+Delivery time differs across cities, indicating differences in operational and delivery efficiency.
+
+Faster delivery can be considered an important opportunity for improving customer satisfaction.
+
+## 4. Price Performance. ##
+The overall **average restaurant price is ₹348.40.
+
+Restaurants are distributed across Low (35%), Medium (33%), and High (32%) price categories.
+
+This relatively balanced distribution indicates that Swiggy offers restaurants across different customer price segments.
