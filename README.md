@@ -80,3 +80,18 @@ This Dataset captures daily restaurant operations across sales, menu costs, staf
 **🚚Delivery Category**
 
 **⏱️Delivery Time Range**
+
+## 📊Dashboard Preview
+
+## 🔍Key Insights
+**Total Restaurants** : 8680
+
+**Average Rating** : 3.7/5⭐
+
+**Average Price** : ₹348
+
+**Average Delivery Time** : 54 mins
+
+**Total Ratings** : 1.36M
+
+**Fast Delivery Restaurants** : 8680
