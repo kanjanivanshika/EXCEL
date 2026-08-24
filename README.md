@@ -95,3 +95,8 @@ This Dataset captures daily restaurant operations across sales, menu costs, staf
 **Total Ratings** : 1.36M
 
 **Fast Delivery Restaurants** : 8680
+
+**1. City Performance**
+The dashboard covers **8,680 restaurants across multiple cities.**
+Restaurant Performance varies by city in terms of delivery time, pricing, cuisine availability, and popularity.
+Mumbai shows strong restaurant presence and customer engagement, while other major cities also contribute significantly to the overall market.
