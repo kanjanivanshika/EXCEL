@@ -119,7 +119,7 @@ Delivery time differs across cities, indicating differences in operational and d
 Faster delivery can be considered an important opportunity for improving customer satisfaction.
 
 ## 4. Price Performance. ##
-The overall **average restaurant price is ₹348.40.
+The overall **average restaurant price is ₹348.40.**
 
 Restaurants are distributed across Low (35%), Medium (33%), and High (32%) price categories.
 
